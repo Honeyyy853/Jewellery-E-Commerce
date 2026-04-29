@@ -81,15 +81,56 @@ This system utilizes the **Razorpay Payment Gateway** configured in Test Mode. U
 
 ## 📸 System Screenshots
 
-### User Application
-![User Home Placeholder](#) | ![Product UI Placeholder](#)
---- | ---
-*Customer Homepage View* | *Product Details View*
+## 📸 Screenshots
 
-### Admin Dashboard
-![Admin Dashboard Placeholder](#) | ![Admin Controls Placeholder](#)
---- | ---
-*Main Executive Dashboard* | *Inventory Management Control*
+---
+
+### 👤 User Panel
+
+<p align="center">
+  <img src="img/home1.png" width="250"/>
+  <img src="img/login.png" width="250"/>
+  <img src="img/register.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="img/products.png" width="250"/>
+  <img src="img/cart.png" width="250"/>
+  <img src="img/chechout.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="img/orderhistory.png" width="250"/>
+  <img src="img/profile.png" width="250"/>
+</p>
+
+---
+
+### 🛠️ Admin Panel
+
+<p align="center">
+  <img src="img/admindashboard.png" width="250"/>
+  <img src="img/addproduct.png" width="250"/>
+  <img src="img/manageproduct.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="img/managecategory.png" width="250"/>
+  <img src="img/managesubcategory.png" width="250"/>
+  <img src="img/manageorder.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="img/managepayment.png" width="250"/>
+  <img src="img/manageoffer.png" width="250"/>
+  <img src="img/manageuser.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="img/manageinquiry.png" width="250"/>
+</p>
+
+---
 
 ## 🔮 Future Improvements
 - [ ] Migrate PHP APIs to Node.js / Express for unified ecosystem language.
