@@ -54,6 +54,3 @@ The Admin Panel is a dedicated, secure application allowing system administrator
 
 ## 📸 Dashboard Previews
 
-![Admin Analytics Placeholder](#) | ![Orders UI Placeholder](#)
---- | ---
-*High-Level Analytics Dashboard* | *Secure Order Processing UI*
