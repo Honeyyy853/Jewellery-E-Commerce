@@ -50,8 +50,3 @@ The core customer-facing interface. Featuring advanced product discovery workflo
    ```
 4. Application typically hosts concurrently at `http://localhost:5174` (or `5173` depending on ports).
 
-## 📸 Client Interfaces
-
-![Storefront Placeholder](#) | ![Checkout Interface Placeholder](#)
---- | ---
-*Aesthetic Storefront View* | *Secure Checkout Gateway View*
