@@ -52,5 +52,4 @@ The Admin Panel is a dedicated, secure application allowing system administrator
 
 > **Note:** For API connections mapped in components, ensure CORS configurations in your PHP backend allow local React origins.
 
-## 📸 Dashboard Previews
 
